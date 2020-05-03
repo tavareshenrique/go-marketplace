@@ -116,4 +116,4 @@ react-native start
 
 # :memo: License
 
-This project is licensed under the MIT license - see the archive [LICENSE.md](https://github.com/tavareshenrique/fastfeet-app/blob/master/LICENSE.md) for details.
+This project is licensed under the MIT license - see the archive [LICENSE.md](https://github.com/tavareshenrique/go-marketplace/blob/master/LICENSE.md) for details.
