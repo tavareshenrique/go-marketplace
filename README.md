@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/tavareshenrique/fastfeet-app?color=7D40E7" />
+  <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/tavareshenrique/go-marketplace?color=7D40E7" />
   <img alt="Made by Henrique Tavares" src="https://img.shields.io/badge/made%20by-Rocketseat-%20?color=7D40E7" />
-  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/tavareshenrique/fastfeet-app?color=7D40E7">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tavareshenrique/fastfeet-app?color=7D40E7">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/tavareshenrique/fastfeet-app?color=7D40E7">
+  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/tavareshenrique/go-marketplace?color=7D40E7">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tavareshenrique/go-marketplace?color=7D40E7">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/tavareshenrique/go-marketplace?color=7D40E7">
 </p>
 
 <p align="center">
@@ -96,7 +96,8 @@ react-native start
        <br />
        <a href="https://www.linkedin.com/in/tavareshenrique/" title="Linkedin">@tavareshenrique</a>
        <br />
-       <a href="https://github.com/tavareshenrique/fastfeet-app/commits?author=tavareshenrique" title="Code">💻</a>
+       <a href="https://github.com/tavareshenrique/
+                feet-app/commits?author=tavareshenrique" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/Rocketseat/">
@@ -109,7 +110,7 @@ react-native start
        <br />
        <a href="https://www.linkedin.com/in/tavareshenrique/" title="Linkedin">@Rocketseat</a>
        <br />
-       <a href="https://github.com/tavareshenrique/fastfeet-app/commits?author=tavareshenrique" title="Code">💻</a>
+       <a href="https://github.com/tavareshenrique/go-marketplace/commits?author=tavareshenrique" title="Code">💻</a>
     </td>
   </tr>
 </table>
