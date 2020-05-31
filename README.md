@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  GoMarketplace is part of the Rocketseat GoStack 11 Fundamentals React Native Challenge.
+  GoMarketplace is an app developed in React Native as a challenge during Rocketseat's GoStack 11 Bootcamp.
 </p>
 
 ---
